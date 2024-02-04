@@ -18,8 +18,8 @@ def login_to_instagram(username, password):
 
 def main():
     # Your Instagram account credentials
-    username = 'vicwjay'
-    password = 'Vitron123'
+    username = 'your username'
+    password = 'yourpassword'
 
     # Attempt to log in to Instagram
     bot = login_to_instagram(username, password)
